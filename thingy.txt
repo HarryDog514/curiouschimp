@@ -1,1 +1,15 @@
-This is your 3 day warning for the winter update and cosmetics going away. If you own a cosmetic be sure to play with it now before it's gone! New features and gamemodes are on the way! I'll give you guys a hint, what's orange, burning hot and fluid? It's going to be rising and you have to jump branch to branch, Don't let your eyes decieve you though!
+Wow, it's already spring in monke world! We have many new and exciting features, such as:
+
+-networked vents and mod room
+-new computer features and better colliders
+-networked finger movement
+-two new gamemodes
+-normal cosmetics
+-time bombs
+-name visibility
+-horror update, both dad mode and mines
+-zero gravity
+-map loader
+-bug fixes
+
+I hope you all have fun!
