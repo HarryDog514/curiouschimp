@@ -1,15 +1,3 @@
-Wow, it's already spring in monke world! We have many new and exciting features, such as:
+[This is a new update. Redownload from itch.io]
 
--networked vents and mod room
--new computer features and better colliders
--networked finger movement
--two new gamemodes
--normal cosmetics
--time bombs
--name visibility
--horror update, both dad mode and mines
--zero gravity
--map loader
--bug fixes
-
-I hope you all have fun!
+Alright, so finally all bugs have been fixed and everything seems to be fine, right? Well sadly no. There are some hackers going around exploiting Playfab API and destroying games. Luckily, I've done some research and I know how to fix it. So, don't freak out if we go into lockdown. Thanks for understanding, also there's some more servers! have fun monkeys!
