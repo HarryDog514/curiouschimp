@@ -1,3 +1,4 @@
-[This is a new update. Redownload from itch.io]
+CC IS UNDER LOCKDOWN UNTIL FURTHER NOTICE
 
-Alright, so finally all bugs have been fixed and everything seems to be fine, right? Well sadly no. There are some hackers going around exploiting Playfab API and destroying games. Luckily, I've done some research and I know how to fix it. So, don't freak out if we go into lockdown. Thanks for understanding, also there's some more servers! have fun monkeys!
+
+We are under attack. Servers have been shut down. Thanks for your patience and understanding
