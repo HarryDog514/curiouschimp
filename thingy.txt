@@ -1,3 +1,7 @@
-Game is off lockdown! Have fun monkeys!
+New update, mainly for Moderator stuff.
 
-Also buying Glimmering Stones should be fixed.
+- out of map fixes
+- Ban Hammer (only for harrydog)
+- other bug fixes
+
+Have fun monkeys!
