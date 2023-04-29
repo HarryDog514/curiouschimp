@@ -1,7 +1,13 @@
-New update, mainly for Moderator stuff.
+Well, looks like there's a new update again! Please update your game to 1.1.9.
 
-- out of map fixes
-- Ban Hammer (only for harrydog)
-- other bug fixes
+New stuff:
 
-Have fun monkeys!
+- Beach map!
+- Horror V2 (will get improvements)
+- Invisible kick hammer (mods only)
+- Platforms (mods only)
+- Speed boost (mods only)
+
+(Don't ask for mod)
+
+Have fun chimps!
