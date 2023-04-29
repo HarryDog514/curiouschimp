@@ -1,4 +1,4 @@
-Well, looks like there's a new update again! Please update your game to 1.1.9.
+Well, looks like there's some new stuff! Please update your game to 1.1.9.
 
 New stuff:
 
@@ -7,7 +7,6 @@ New stuff:
 - Invisible kick hammer (mods only)
 - Platforms (mods only)
 - Speed boost (mods only)
-
 (Don't ask for mod)
 
 Have fun chimps!
