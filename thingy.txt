@@ -1,12 +1,14 @@
-Well, looks like there's some new stuff! Please update your game to 1.1.9.
+Seems like the seasons have turned, and summer is finally here! Please update your game to 1.2.
 
 New stuff:
 
-- Beach map!
-- Horror V2 (will get improvements)
-- Invisible kick hammer (mods only)
-- Platforms (mods only)
-- Speed boost (mods only)
-(Don't ask for mod)
+- Horror V2 Improvements
+- Coconuts
+- Summer Cosmetics
+- Mod Menu (only mods)
+- Grapple Gun for trusted users
+- New supporter stuff
+- Cosmetics for people who protect the game from hacks
+- Random Bug fixes
 
 Have fun chimps!
