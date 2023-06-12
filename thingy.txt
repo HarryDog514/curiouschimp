@@ -1,14 +1,6 @@
-Seems like the seasons have turned, and summer is finally here! Please update your game to 1.2.
+Little bit of summer bug fixes. Please make sure you're on the latest applab version.
 
-New stuff:
-
-- Horror V2 Improvements
-- Coconuts
-- Summer Cosmetics
-- Mod Menu (only mods)
-- Grapple Gun for trusted users
-- New supporter stuff
-- Cosmetics for people who protect the game from hacks
-- Random Bug fixes
-
-Have fun chimps!
+Bug Fixes:
+- Coconuts are now networked
+- Zero Gravity is fixed
+- Freeze Hammer is fixed
