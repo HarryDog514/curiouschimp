@@ -1,5 +1,7 @@
-MANDATORY UPDATE! Please update your game to 1.2.1, or crucial features won't work. Make sure there is a beach with coconut trees, but no coconuts. Otherwise, please update.
+MANDATORY UPDATE! Please update your game to 1.2.2, or crucial features won't work. Make sure there is a beach with coconut trees, but no coconuts. Otherwise, please update.
 
 - lots of bug fixes
 - long kick hammer
 - long arms on mod menu
+
+IMPORTANT: MAKE SURE IT'S NOT 1.2.1 THERE IS A MAJOR BUG
