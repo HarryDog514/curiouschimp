@@ -1,7 +1,3 @@
-CC IS BACK!!!!
+Please update your game to 1.2.6
 
-New Things:
-- Water swishing sounds
-- Desert map has begun construction
-- Camera feature on computer
-- Just bug fixes
+There were some bugs
