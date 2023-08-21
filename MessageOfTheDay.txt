@@ -1,3 +1,5 @@
-Welcome to the CC Private APK!
+New Update
 
-Nothing new here, just bug fixes and new servers.
+- bug fixes
+- Camera Mod
+- Removed Ban Hammer from display room
