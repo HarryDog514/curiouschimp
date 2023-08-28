@@ -1,3 +1,6 @@
-CC Private APK
+Fall has come early for the Curious Chimps! I've added a few new things, such as:
 
-Nothing new here.
+- fall cosmetics
+- wardrobe system
+- unity dev menu
+- fall-like changes in forest
