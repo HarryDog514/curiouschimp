@@ -1,10 +1,8 @@
-Happy holidays everyone! Sorry, this isn't a really big update lol.
+Happy New Year! Sorry it's not that big of an update lol.
 
-New Things:
-- I would say cosmetics here, but I didn't add any this update. Sorry.
-- Snowball Fight Gamemode! (may have bugs)
-- Dad has a Santa Hat
-- Snow around the forest map
-- New lore and a rip in the space-time......
+New Stuff:
 
-(THERE IS A QUICK PATCH, CHECK DISCORD AND WHATSAPP)
+- Improved Owner Stuff
+- Fireworks (no sound but they look pretty cool)
+- New Year's Cosmetics
+- A few minor bug fixes, and removed snowball fight because of bugs
