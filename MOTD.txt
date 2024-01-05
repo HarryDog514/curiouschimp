@@ -1,8 +1,4 @@
-Happy New Year! Sorry it's not that big of an update lol.
+It's winter in CC! Sorry, it's an extremely small update.
 
-New Stuff:
-
-- Improved Owner Stuff
-- Fireworks (no sound but they look pretty cool)
-- New Year's Cosmetics
-- A few minor bug fixes, and removed snowball fight because of bugs
+- Fireworks removed
+- Winter Cosmetics
