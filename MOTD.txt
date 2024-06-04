@@ -1,14 +1,7 @@
-Woah, looks like Spring is here early!
+Summer has finally arrived! (btw happy birthday Void and happy graduation Gabe)
 
-- Spring Cosmetics
-- New chill spot next to the lake
-- Improved keyboard
-- Some small bug fixes
-- PBBV randomized navigation within force field
-- OG Campfire with lighting
-- New pole to climb to get up to the treehouse thingy
-- Gamemode switcher
-- Some new props in mines
-- New lore
-
-And wayyy more in this new update! Have fun apes!
+- Way better water
+- Fixed muting along with other bugs
+- A few changes to snow and forest
+- Time bombs have returned (may be broken)
+- A new cosmetic for void's birthday and a pride flag cosmetic
